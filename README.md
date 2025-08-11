@@ -15,9 +15,7 @@ SPICE netlist generation
 The spice command prints the current circuit in proper SPICE syntax with sequential component numbering.
 
 Interactive commands
-
 spice – Displays the circuit in SPICE netlist format.
-
 end – Terminates the program gracefully with "All Done".
 
 JUnit testing
